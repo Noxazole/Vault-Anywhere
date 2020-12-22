@@ -1,0 +1,5 @@
+## Interface: 90002
+## Title: Vault Anywhere
+## Author: Noxazole
+## Version: 2020.01
+core.lua
